@@ -33,7 +33,7 @@ Gra została udostępniona na podstawi licencji MIT, zawartej w pliku LICENSE
 
 Python 3.6, pygame, random, numpy package 
 
-##Instructions
+## Instructions
 
 The Plumber player’s aim is to connect pipes as to enable free flow of water from the point in the upper-left corner. The player has to predict the exact consequences of the pipe’s rotation as it is possible to change it only in case of the last pipe in a created pathway. You can control pipes’ rotation by clicking on them, the pipe will rotate 90 degrees in a clockwise direction. Pipes which belong to the pathway are filled with water and marked in blue. When the player completes the level, 10 points for each used pipe are granted. If the player leads the pathway in the way it disenables continuing the game, it is possible to restart the game by clicking the buttom „Restart” which ends up in losing one life. For every 500 points the player can buy life by clicking the buttom „Buy life”. If the player does not have either lives or points, the new game must be started by clicking the buttom „ New game”. The game is available in two language versions: Polish and English. If you want to select Polish version, select „P” on the keyboard. If you want to select English version, press „E”. You can close the window in any moment of the game by clicking „Q”.
 
