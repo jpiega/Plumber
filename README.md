@@ -39,7 +39,7 @@ The Plumber player’s aim is to connect pipes as to enable free flow of water f
 
 ## Sources
 
-Graphics are downloaded from openclipart.org 
+Graphics have been downloaded from openclipart.org 
 
  * icon of volume - author: Vookimedlo - https://openclipart.org/detail/309464/mute-volume-icon
  * plumber - autjor:  snoopingasusual -https://openclipart.org/detail/276118/plumber?fbclid=IwAR0aifU16B3TFZKvf5iEj3Pyi8ni8BMzIFiNCzBfHXgRAbzulBsMUIRKWfU
@@ -47,7 +47,7 @@ Graphics are downloaded from openclipart.org
  * pipes are made in Paint 3D
 
 
-Sound bell2_1.ogg is downloaded from https://opengameart.org/
+Sound bell2_1.ogg has been downloaded from https://opengameart.org/
 
 This game is licensed under the MIT License (LICENSE file)
 
